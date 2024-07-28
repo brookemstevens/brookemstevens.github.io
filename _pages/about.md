@@ -34,7 +34,7 @@ Programming Languages
 Python Libraries
 <p align="left">
 <a href="https://matplotlib.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/Matplotlib_icon.svg.png" width="36" height="36" alt="Matplotlib" />Matplotlib</a>
-<a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-numpy.svg" width="36" height="36" alt="Numpy" />Numpy</a>
+<a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-numpy.svg" width="36" height="36" alt="NumPy" />NumPy</a>
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-pandas.svg" width="36" height="36" alt="Pandas" />Pandas</a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/scikit-learn-seeklogo.com.svg" width="36" height="36" alt="Scikit-Learn" />Scikit-Learn</a>
 <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/seaborn.svg" width="36" height="36" alt="Seaborn" />Seaborn</a>

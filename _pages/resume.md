@@ -13,9 +13,7 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<!-- <a href="../files/Rakshak Kunchum Resume.pdf" class="uline">Click here for a full pdf copy of my CV</a> -->
-
-<p><b>Click here to access a PDF copy of my resume:</b></p>
+## Click here to access a PDF of my resume:
 
 <style type="text/css">
 .button-28 {
@@ -42,7 +40,7 @@ a.uline {text-decoration:underline;}
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  width: auto;
+  width: 200px;
   will-change: transform;
 }
 
@@ -65,6 +63,8 @@ a.uline {text-decoration:underline;}
   <button class="button-28" role="button">Resume</button>
 </a>
 
+<br>
+
 
 ## Education
 ---
@@ -76,7 +76,9 @@ GPA: N/A<br>
 **August 2020 - May 2024**<br>
 B.S. Mathematics and Engineering Science, Minors in Data Science and Business<br>
 Vanderbilt University<br>
-GPA: 3.98/4.00  |  Summa Cum Laude<br>
+GPA: 3.98/4.00  |  Summa Cum Laude
+
+<br>
 
 
 ## Professional Experience
@@ -138,22 +140,7 @@ Vanderbilt Panhellenic Conference<br>
 <ul><li>Provided individualized mentorship to 40 students during Vanderbilt’s sorority recruitment process</li></ul><br>
 
 
-
 ## Skills
 ---
-Python (Matplotlib, NumPy, Pandas, Scikit-Learn, Seaborn, TensorFlow, LangChain, Streamlit), R, Git/GitHub/Version Control, SQL, HTML, CSS, Microsoft Azure, Docker, Microsoft Excel, Tableau<br>
+Python (Matplotlib, NumPy, Pandas, Scikit-Learn, Seaborn, OpenCV, TensorFlow, Flask, LangChain, Streamlit), R, Git/GitHub/Version Control, SQL, HTML, CSS, Microsoft Azure, Docker, Microsoft Excel, Tableau<br>
 
-<!-- ## Awards and Honors
----
-**Spot Award winner and Value Champion** for AMJ’ 21 quarter at Dataweave for efficient performance across projects.<br>
-**Winner of Start-Up week** conducted by the Center for Innovation, Research and Development (ICRD), BMSCE.<br>
-**Finalist in Smart India Hackathon (SIH)** 2020, conducted by the Government of India.<br>
-
-## Extracurriculars
----
-Data Science Hub, Northeastern Graduate Student Government, Volleyball, Badminton, Hiking, Video Games, E-Sports<br>
-
-## Service and Outreach
----
-**Volunteer** in the Rotaract club’s *I-Teach initiative*-<br>
-Helped underprivileged students by teaching them elementary subjects.<br> -->

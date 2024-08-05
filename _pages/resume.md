@@ -87,7 +87,7 @@ GPA: 3.98/4.00  |  Summa Cum Laude
 **June 2024 - August 2024**<br>
 Data Science Intern<br>
 PwC<br>
-<ul><li>Developed a test data generator powered by GPT-3.5 Turbo for client software testing</li>
+<ul><li>Developed a test data generator powered by GPT-4, saving engagement teams up to 2 weeks of time on data procurement</li>
 <li>Expanded the application’s capabilities to handle complex data types and generate multiple related tables using LangChain</li>
 <li>Redesigned the application’s user journey and front-end architecture using Streamlit</li></ul><br>
 

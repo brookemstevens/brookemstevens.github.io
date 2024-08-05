@@ -94,7 +94,7 @@ PwC<br>
 **January 2024 - April 2024**<br>
 Data Analytics Capstone<br>
 Tennessee Department of Environment and Conservation<br>
-<ul><li>Identified temporal, spatial, and seasonal trends using 33 years of data across 86 monitoring sites in Tennessee</li>
+<ul><li>Identified temporal, spatial, and seasonal water quality trends using 33 years of data across 86 monitoring sites in Tennessee</li>
 <li>Presented <a href="https://drive.google.com/file/d/1s-SttaiNr4K9fc6h9-gWHgiYAWPm7o6x/view?usp=sharing" target="_blank" rel="noopener noreferrer">notable analytic insights</a> to TDEC team once a month</li>
 <li>Assisted with transition to Tableau to automate analytic processes</li></ul><br>
 

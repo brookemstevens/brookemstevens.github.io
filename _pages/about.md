@@ -55,7 +55,7 @@ Toolkits/Frameworks
 
 Other
 <p align="left">
-<a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="24" height="24" alt="HTML" />HTML</a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="34" height="34" alt="HTML" />HTML</a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="24" height="24" alt="CSS" />CSS</a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-web-scraper.svg" width="36" height="36" alt="Web Scraping" />Web Scraping</a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-statistics-96.png" width="36" height="36" alt="Data Analysis" />Data Analysis</a>

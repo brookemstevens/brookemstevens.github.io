@@ -51,6 +51,7 @@ Toolkits/Frameworks
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/docker-tile.svg" width="30" height="30" alt="Docker" />Docker</a>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-git.svg" width="36" height="36" alt="Git" />Git</a>
 <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-tableau-software.svg" width="36" height="36" alt="Tableau" />Tableau</a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/640px-New_Power_BI_Logo.svg.png" width="30" height="30" alt="Power BI" />Power BI</a>
 </p>
 
 Other

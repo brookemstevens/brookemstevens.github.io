@@ -59,7 +59,7 @@ a.uline {text-decoration:underline;}
 </style>
 
 
-<a href="../files/Brooke M Stevens CV August 2024.pdf" target="_blank" rel="noopener noreferrer">
+<a href="../files/Brooke M Stevens CV September 2024.pdf" target="_blank" rel="noopener noreferrer">
   <button class="button-28" role="button">Resume</button>
 </a>
 
@@ -115,7 +115,7 @@ Vanderbilt Data Science Club<br>
 Engineering Intern<br>
 WSP<br>
 <ul><li>Designed roadway and traffic plans using MicroStation and Power InRoads software</li>
-<li>Drafted written proposals and communicated with engineers and external stakeholders</li></ul><br>
+<li>Drafted written proposals for engineering managers and external stakeholders</li></ul><br>
 
 
 ## Leadership Experience
@@ -142,5 +142,5 @@ Vanderbilt Panhellenic Conference<br>
 
 ## Skills
 ---
-Python (Matplotlib, NumPy, Pandas, Scikit-Learn, Seaborn, OpenCV, TensorFlow, Flask, LangChain, Streamlit), R, Git/GitHub/Version Control, SQL, HTML, CSS, Microsoft Azure, Docker, Microsoft Excel, Tableau<br>
+Python (Matplotlib, NumPy, Pandas, Scikit-Learn, Seaborn, OpenCV, TensorFlow, Flask, LangChain, Streamlit), R, Git/GitHub/Version Control, SQL, HTML, CSS, Microsoft Azure, Docker, Microsoft Excel, Tableau, Power BI<br>
 

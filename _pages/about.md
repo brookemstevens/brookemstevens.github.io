@@ -11,12 +11,12 @@ classes: wide
 
 <h1>Welcome to my page!</h1>
 
-M.S. Data Science at Stanford University 🌲
+M.S. Data Science at Vanderbilt University 💻
 --------------------------------------------------------
 
 * 🌎  I'm from Atlanta, GA
 * 📍  Looking for opportunities in D.C. and the southern U.S.
-* ✉️  You can contact me at [bmstev@stanford.edu](mailto:bmstev@stanford.edu)
+* ✉️  You can contact me at [brooke.m.stevens@vanderbilt.edu](mailto:brooke.m.stevens@vanderbilt.edu)
 * 📊  I'm passionate about using data science and machine learning to solve business problems
 * 🤝  I love working in teams
 * 🏃‍♀️  My hobbies include running, hiking, pickleball, and squash

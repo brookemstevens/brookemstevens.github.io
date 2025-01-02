@@ -59,7 +59,7 @@ a.uline {text-decoration:underline;}
 </style>
 
 
-<a href="../files/Brooke M Stevens CV September 2024.pdf" target="_blank" rel="noopener noreferrer">
+<a href="../files/Brooke M Stevens CV January 2025.pdf" target="_blank" rel="noopener noreferrer">
   <button class="button-28" role="button">Resume</button>
 </a>
 
@@ -68,9 +68,9 @@ a.uline {text-decoration:underline;}
 
 ## Education
 ---
-**September 2024 - June 2026**<br>
+**Expected: May 2026**<br>
 M.S. Data Science<br>
-Stanford University<br>
+Vanderbilt University<br>
 GPA: N/A<br>
 
 **August 2020 - May 2024**<br>
@@ -83,6 +83,11 @@ GPA: 3.98/4.00  |  Summa Cum Laude
 
 ## Professional Experience
 ---
+
+**May 2025 - August 2025**<br>
+Data Science Intern<br>
+Microsoft<br>
+<ul><li>Joining Microsoft’s Customer Success Engineering team as a Data Science Intern in Summer 2025</li></ul><br>
 
 **June 2024 - August 2024**<br>
 Data Science Intern<br>

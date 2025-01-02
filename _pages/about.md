@@ -11,7 +11,7 @@ classes: wide
 
 <h1>Welcome to my page!</h1>
 
-M.S. Data Science at Vanderbilt University 💻
+M.S. Data Science at Vanderbilt University  💻
 --------------------------------------------------------
 
 * 🌎  I'm from Atlanta, GA

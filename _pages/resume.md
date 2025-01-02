@@ -116,12 +116,6 @@ Vanderbilt Data Science Club<br>
 <ul><li>Created an <a href="https://drive.google.com/file/d/1EKIKc_6ZSj1BTgPF4sinpLFc7U0ptm4K/view?usp=sharing" target="_blank" rel="noopener noreferrer">email summarization and sentiment analysis tool</a> for individuals with cognitive disabilities</li>
 <li>Most notable contributions included fine-tuning the sentiment analysis model and developing its <a href="https://drive.google.com/file/d/170Y31_6oocN9isx6AQFvJZlF1y78FOJR/view?usp=sharing" target="_blank" rel="noopener noreferrer">user interface</a></li></ul><br>
 
-**May 2022 - July 2022**<br>
-Engineering Intern<br>
-WSP<br>
-<ul><li>Designed roadway and traffic plans using MicroStation and Power InRoads software</li>
-<li>Drafted written proposals for engineering managers and external stakeholders</li></ul><br>
-
 
 ## Leadership Experience
 ---

@@ -39,7 +39,8 @@ Python Libraries
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/scikit-learn-seeklogo.com.svg" width="36" height="36" alt="Scikit-Learn" />Scikit-Learn</a>
 <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/seaborn.svg" width="36" height="36" alt="Seaborn" />Seaborn</a>
 <a href="https://opencv.org/g" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-opencv.svg" width="36" height="36" alt="OpenCV" />OpenCV</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-tensorflow.svg" width="36" height="36" alt="Tensorflow" />Tensorflow</a>
+<a href="https://https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/pytorch-icon.svg" width="36" height="36" alt="PyTorch" />PyTorch</a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-tensorflow.svg" width="36" height="36" alt="TensorFlow" />TensorFlow</a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://cdn.buttercms.com/w8lc0UqsQCnPG0Ax6aiM" width="30" height="30" alt="Flask" />Flask</a>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://api.nuget.org/v3-flatcontainer/langchain.databases.chroma/0.12.3-dev.71/icon" width="36" height="36" alt="LangChain" />LangChain</a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://yt3.googleusercontent.com/ytc/AIdro_m3Dbjaq8CDkal5bP6rJ-IRDj2JTH5OlWM9-HAAWbeym0I=s900-c-k-c0x00ffffff-no-rj" width="36" height="36" alt="Streamlit" />Streamlit</a>
@@ -67,7 +68,7 @@ Other
 
 ## About Me
 
-During summer 2024, I worked as a <b>Data Science Intern</b> at PwC, where I developed a test data generator product powered by GPT-4. This tool saved about 2 weeks of data procurement time for accounting and consulting teams. I redesigned the front-end architecture of the product and integrated more complex prompting to expand the app’s capabilities. I also worked as an <b>Analytics Intern</b> at PwC during summer 2023, where I supported SQL and Excel data queries to create a unified data source for a major airline's labor analytics team.
+During summer 2025, I worked as a <b>Data Science Intern</b> at Microsoft, where I built a logic extraction tool to convert internal IDEAS whitepapers into high-quality fine-tuning data for an AI agent. I also developed a reinforcement learning system using HuggingFace TRL to refine user prompts to the agent, achieving a 10% improvement in experimentation results for AI feedback optimization In summer 2024, I worked as a <b>Data Science Intern</b> at PwC, where I developed a test data generator product powered by GPT-4. This tool saved about 2 weeks of data procurement time for accounting and consulting teams. I redesigned the front-end architecture of the product and integrated more complex prompting to expand the app’s capabilities. I also worked as an <b>Analytics Intern</b> at PwC during summer 2023, where I supported SQL and Excel data queries to create a unified data source for a major airline's labor analytics team.
 
 In May 2024, I graduated summa cum laude from Vanderbilt University with a B.S. in Mathematics and Engineering Science and minors in Data Science and Business. I served as a <b>Developer</b> for the Vanderbilt Data Science Club during my junior year, where I created an email summarization and sentiment analysis tool specifically designed for individuals with cognitive disabilities. Additionally, as the <b>Vice President of Finance</b> and <b>Social Chair</b> for the Vanderbilt Data Science Club, I managed the organization’s funds, led general body meetings, built an <a href="https://vandydatascience-internal.github.io/" target="_blank" rel="noopener noreferrer">application site</a>, assisted with building a <a href="https://vandy-data-science.netlify.app/" target="_blank" rel="noopener noreferrer">main website</a>, and coordinated social events for developers.
 
@@ -78,12 +79,15 @@ Looking ahead, I am eager to gain more industry experience and continue solving 
 
 ## Relevant Coursework
 
-* Natural Language Processing
-* Mathematical Data Science
+* Machine Learning
+* Deep Learning
+* Statistical Learning
 * Numerical Mathematics
+* Natural Language Processing
+* Database Management Systems
+* Data Structures
 * Linear Algebra
 * Intermediate Statistics/Probability
-* Applied Machine Learning
 * Differential Equations
 * Multivariable Calculus
 

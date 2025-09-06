@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Brooke Stevens"
   avatar           : "/images/brooke.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "<ul><li>M.S. Data Science at Vanderbilt University</li><li>Incoming Data Science Intern at Microsoft</li><li>Former Data Science Intern at PwC</li></ul>"
+  bio              : "<ul><li>M.S. Data Science at Vanderbilt University</li><li>Former Data Science Intern at Microsoft</li><li>Former Data Science Intern at PwC</li></ul>"
   location         :
   employer         :
   email            : "brooke.m.stevens@vanderbilt.edu"

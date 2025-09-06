@@ -59,7 +59,7 @@ a.uline {text-decoration:underline;}
 </style>
 
 
-<a href="../files/Brooke M Stevens CV January 2025.pdf" target="_blank" rel="noopener noreferrer">
+<a href="../files/Brooke M Stevens CV August 2025.pdf" target="_blank" rel="noopener noreferrer">
   <button class="button-28" role="button">Resume</button>
 </a>
 
@@ -87,7 +87,10 @@ GPA: 3.98/4.00  |  Summa Cum Laude
 **May 2025 - August 2025**<br>
 Data Science Intern<br>
 Microsoft<br>
-<ul><li>Joining Microsoft’s Customer Success Engineering team as a Data Science Intern in Summer 2025</li></ul><br>
+<ul><li>Built a logic extraction tool to convert internal IDEAS whitepapers into high-quality fine-tuning data for an AI agent</li>
+<li>Performed statistical hypothesis testing to show the fine-tuned agent’s enhanced performance over the baseline GPT model</li>
+<li>Developed a reinforcement learning system using HuggingFace TRL to refine user prompts to the agent, achieving a 10%
+improvement in experimentation results for AI feedback optimization</li></ul><br>
 
 **June 2024 - August 2024**<br>
 Data Science Intern<br>
@@ -141,5 +144,5 @@ Vanderbilt Panhellenic Conference<br>
 
 ## Skills
 ---
-Python (Matplotlib, NumPy, Pandas, Scikit-Learn, Seaborn, OpenCV, TensorFlow, Flask, LangChain, Streamlit), R, Git/GitHub/Version Control, SQL, HTML, CSS, Microsoft Azure, Docker, Microsoft Excel, Tableau, Power BI<br>
+Python (Matplotlib, NumPy, Pandas, Scikit-Learn, Seaborn, OpenCV, PyTorch, TensorFlow, Flask, LangChain, Streamlit), R, Git/GitHub/Version Control, SQL, HTML, CSS, Microsoft Azure, Docker, Microsoft Excel, Tableau, Power BI<br>
 

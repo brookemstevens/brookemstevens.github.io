@@ -71,7 +71,7 @@ a.uline {text-decoration:underline;}
 **Expected: May 2026**<br>
 M.S. Data Science<br>
 Vanderbilt University<br>
-GPA: N/A<br>
+GPA: 4.00/4.00<br>
 
 **August 2020 - May 2024**<br>
 B.S. Mathematics and Engineering Science, Minors in Data Science and Business<br>

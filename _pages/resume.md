@@ -95,7 +95,7 @@ improvement in experimentation results for AI feedback optimization</li></ul><br
 **June 2024 - August 2024**<br>
 Data Science Intern<br>
 PwC<br>
-<ul><li>Developed a test data generator powered by GPT-4, saving engagement teams up to 2 weeks of time on data procurement</li>
+<ul><li>Built a synthetic data generator for dashboard tasks, saving engagement teams up to 2 weeks of time on data procurement</li>
 <li>Expanded the application’s capabilities to handle complex data types and generate multiple related tables using LangChain</li>
 <li>Redesigned the application’s user journey and front-end architecture using Streamlit</li></ul><br>
 
@@ -126,10 +126,9 @@ Vanderbilt Data Science Club<br>
 **January 2023 - May 2024**<br>
 Vice President of Finance, Social Chair<br>
 Vanderbilt Data Science Club<br>
-<ul><li>Responsible for managing the organization’s funds and leading general body meetings</li>
+<ul><li>Responsible for managing the organization’s funds, leading general body meetings, and coordinating monthly social events</li>
 <li>Individually built new <a href="https://vandydatascience-internal.github.io/" target="_blank" rel="noopener noreferrer">VDS online application website</a> using GitHub Pages</li>
-<li> Assisted exec team with new <a href="https://vandy-data-science.netlify.app/" target="_blank" rel="noopener noreferrer">VDS main website</a></li>
-<li>Coordinated monthly social events for developers, engineering managers, and executive board members</li></ul><br>
+<li> Assisted exec team with new <a href="https://vandy-data-science.netlify.app/" target="_blank" rel="noopener noreferrer">VDS main website</a></li></ul><br>
 
 **January 2022 - December 2023**<br>
 Executive Board<br>

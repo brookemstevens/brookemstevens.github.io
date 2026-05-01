@@ -15,14 +15,13 @@ M.S. Data Science at Vanderbilt University  💻
 --------------------------------------------------------
 
 * 🌎  I'm from Atlanta, GA
-<!-- * 📍  Looking for opportunities in D.C. and the southern U.S. -->
-* ✉️  You can contact me at [brooke.m.stevens@vanderbilt.edu](mailto:brooke.m.stevens@vanderbilt.edu)
+* ✉️  You can contact me at [brookestevens46@gmail.com](mailto:brookestevens46@gmail.com)
 * 📊  I'm passionate about using data science and machine learning to solve business problems
 * 🤝  I love working in teams
 * 🏃‍♀️  My hobbies include running, hiking, pickleball, and squash
 
 
-## Skills
+<!-- ## Skills
 
 Programming Languages
 <p align="left">
@@ -63,8 +62,16 @@ Other
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/icons8-statistics-96.png" width="36" height="36" alt="Data Analysis" />Data Analysis</a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/data wragling.png" width="36" height="36" alt="Data Wrangling" />Data Wrangling</a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.jpg" width="36" height="36" alt="Microsoft Excel" />Microsoft Excel</a>
-</p>
+</p> -->
 
+## Skills
+<ul>
+  <li><strong>Programming Languages:</strong> Python, R, SQL, HTML, CSS</li>
+  <li><strong>Python Libraries:</strong> Matplotlib, NumPy, Pandas, Scikit-Learn, Seaborn, OpenCV, PyTorch, TensorFlow, Flask, LangChain, Streamlit</li>
+  <li><strong>Cloud & DevOps:</strong> Microsoft Azure, AWS Cloud, Google Cloud, Docker, Kubernetes, Git/GitHub/Version Control</li>
+  <li><strong>Data Engineering & Big Data:</strong> Spark, MapReduce, Snowflake, Alteryx</li>
+  <li><strong>Data Visualization & Analytics:</strong> Tableau, Power BI, Microsoft Excel, Data Analysis, Data Wrangling, Data Storytelling and Communication</li>
+</ul>
 
 ## About Me
 

@@ -59,7 +59,7 @@ a.uline {text-decoration:underline;}
 </style>
 
 
-<a href="../files/Brooke M Stevens CV August 2025.pdf" target="_blank" rel="noopener noreferrer">
+<a href="../files/Brooke M Stevens CV May 2026.pdf" target="_blank" rel="noopener noreferrer">
   <button class="button-28" role="button">Resume</button>
 </a>
 
@@ -68,12 +68,12 @@ a.uline {text-decoration:underline;}
 
 ## Education
 ---
-**Expected: May 2026**<br>
+**May 2026**<br>
 M.S. Data Science<br>
 Vanderbilt University<br>
-GPA: 4.00/4.00<br>
+GPA: 3.98/4.00  |  Won 1st place and $1000 prize at Vanderbilt's AI Showcase Competition 2026<br>
 
-**August 2020 - May 2024**<br>
+**May 2024**<br>
 B.S. Mathematics and Engineering Science, Minors in Data Science and Business<br>
 Vanderbilt University<br>
 GPA: 3.98/4.00  |  Summa Cum Laude
@@ -89,13 +89,12 @@ Data Science Intern<br>
 Microsoft<br>
 <ul><li>Built a logic extraction tool to convert internal IDEAS whitepapers into high-quality fine-tuning data for an AI agent</li>
 <li>Performed statistical hypothesis testing to show the fine-tuned agent’s enhanced performance over the baseline GPT model</li>
-<li>Developed a reinforcement learning system using HuggingFace TRL to refine user prompts to the agent, achieving a 10%
-improvement in experimentation results for AI feedback optimization</li></ul><br>
+<li>Developed a reinforcement learning system using HuggingFace TRL to refine user prompts to the agent, achieving a 10% improvement in experimentation results for AI feedback optimization</li></ul><br>
 
 **June 2024 - August 2024**<br>
 Data Science Intern<br>
 PwC<br>
-<ul><li>Built a synthetic data generator for dashboard tasks, saving engagement teams up to 2 weeks of time on data procurement</li>
+<ul><li>Built an AI-powered data generator for dashboarding, saving engagement teams up to 2 weeks of time on data procurement</li>
 <li>Expanded the application’s capabilities to handle complex data types and generate multiple related tables using LangChain</li>
 <li>Redesigned the application’s user journey and front-end architecture using Streamlit</li></ul><br>
 
@@ -128,7 +127,7 @@ Vice President of Finance, Social Chair<br>
 Vanderbilt Data Science Club<br>
 <ul><li>Responsible for managing the organization’s funds, leading general body meetings, and coordinating monthly social events</li>
 <li>Individually built new <a href="https://vandydatascience-internal.github.io/" target="_blank" rel="noopener noreferrer">VDS online application website</a> using GitHub Pages</li>
-<li> Assisted exec team with new <a href="https://vandy-data-science.netlify.app/" target="_blank" rel="noopener noreferrer">VDS main website</a></li></ul><br>
+<li>Assisted exec team with new <a href="https://vandy-data-science.netlify.app/" target="_blank" rel="noopener noreferrer">VDS main website</a></li></ul><br>
 
 **January 2022 - December 2023**<br>
 Executive Board<br>
@@ -143,5 +142,4 @@ Vanderbilt Panhellenic Conference<br>
 
 ## Skills
 ---
-Python (Matplotlib, NumPy, Pandas, Scikit-Learn, Seaborn, OpenCV, PyTorch, TensorFlow, Flask, LangChain, Streamlit), R, Git/GitHub/Version Control, SQL, HTML, CSS, Microsoft Azure, Docker, Microsoft Excel, Tableau, Power BI<br>
-
+Python (Matplotlib, NumPy, Pandas, Scikit-Learn, Seaborn, OpenCV, PyTorch, TensorFlow, Flask, LangChain, Streamlit), R, Git/GitHub/Version Control, SQL, HTML, CSS, Microsoft Azure, AWS Cloud, Google Cloud, Docker, Kubernetes, Microsoft Excel, Tableau, Power BI, Spark, MapReduce, Snowflake, Alteryx, Data Storytelling and Communication<br>

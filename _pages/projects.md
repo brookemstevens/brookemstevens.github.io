@@ -66,8 +66,9 @@ a.uline {text-decoration:underline;}
 <br>
 
 ## 🔢  Claude skills for mathematical visualization  🔢
-<ul><li>In this project, I built two Claude skills that help students understand formal mathematical algorithms through pseudocode extraction and step-by-step numerical examples — winning 1st place and $1,000 at the Vanderbilt AI Showcase Competition 2026</li>
-<li><b>Skills:</b> Python, prompt engineering, LaTeX, LLM skill development, technical writing</li></ul><br>
+🏆 Won 1st place and $1,000 at Vanderbilt's AI Showcase Competition 2026 🏆
+<ul><li>In this project, I built two Claude skills that help students understand formal mathematical algorithms through pseudocode extraction and step-by-step numerical examples</li>
+<li><b>Skills:</b> Python, LaTeX, Claude skill development, formal mathematical algorithms</li></ul><br>
 
 ## 🍽️  Brooke's Meal Planner AWS Agent  🍽️
 <ul><li>In this project, I built an agentic LLM-powered web app that helps a single person plan weeknight dinners, reduce food waste, and generate grocery lists with real package sizes and store-specific prices</li>

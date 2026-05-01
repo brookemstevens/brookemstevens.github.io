@@ -66,7 +66,7 @@ a.uline {text-decoration:underline;}
 <br>
 
 ## 🔢  Claude skills for mathematical visualization  🔢
-🏆 Won 1st place and $1,000 at Vanderbilt's AI Showcase Competition 2026 🏆
+🏆 Won 1st place and $1,000 prize at Vanderbilt's AI Showcase Competition 2026 🏆
 <ul><li>In this project, I built two Claude skills that help students understand formal mathematical algorithms through pseudocode extraction and step-by-step numerical examples</li>
 <li><b>Skills:</b> Python, LaTeX, Claude skill development, formal mathematical algorithms</li></ul><br>
 

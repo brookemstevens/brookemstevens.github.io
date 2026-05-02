@@ -79,7 +79,7 @@ a.uline {text-decoration:underline;}
 <li><b>Skills:</b> Python (PySpark, MLlib), distributed computing, Google Cloud Dataproc, feature engineering, linear regression, decision tree, random forest</li></ul><br>
 
 ## 🚫  Naive Bayes spam detection web app and Chrome extension  🚫
-<ul><li>In this project, I built a spam detection system using a Naive Bayes model implemented from scratch, deployed as both a Flask web app and a Chrome browser extension</li>
+<ul><li>In this project, I built an email spam detection system using a Naive Bayes model implemented from scratch, deployed as both a Flask web app and a Chrome browser extension</li>
 <li><b>Skills:</b> Python (Flask), machine learning from scratch, natural language processing, Chrome extension development, web development</li></ul><br>
 
 ## 💻  Email sentiment analysis tool  💻

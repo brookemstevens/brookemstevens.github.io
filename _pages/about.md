@@ -75,9 +75,9 @@ Other
 
 ## About Me
 
-During summer 2025, I worked as a <b>Data Science Intern</b> at Microsoft, where I built a logic extraction tool to convert internal IDEAS whitepapers into high-quality fine-tuning data for an AI agent. I also developed a reinforcement learning system using HuggingFace TRL to refine user prompts to the agent, achieving a 10% improvement in experimentation results for AI feedback optimization. In summer 2024, I worked as a <b>Data Science Intern</b> at PwC, where I developed a test data generator product powered by GPT-4. This tool saved about 2 weeks of data procurement time for accounting and consulting teams. I redesigned the front-end architecture of the product and integrated more complex prompting to expand the app’s capabilities. I also worked as an <b>Analytics Intern</b> at PwC during summer 2023, where I supported SQL and Excel data queries to create a unified data source for a major airline's labor analytics team.
+I graduated from Vanderbilt University in May 2026 with an M.S. in Data Science. During summer 2025, I worked as a <b>Data Science Intern</b> at Microsoft, where I built a logic extraction tool to convert internal IDEAS whitepapers into high-quality fine-tuning data for an AI agent. I also developed a reinforcement learning system using HuggingFace TRL to refine user prompts to the agent, achieving a 10% improvement in experimentation results for AI feedback optimization. In summer 2024, I worked as a <b>Data Science Intern</b> at PwC, where I developed a test data generator product powered by GPT-4. This tool saved about 2 weeks of data procurement time for accounting and consulting teams. I redesigned the front-end architecture of the product and integrated more complex prompting to expand the app’s capabilities. I also worked as an <b>Analytics Intern</b> at PwC during summer 2023, where I supported SQL and Excel data queries to create a unified data source for a major airline's labor analytics team.
 
-In May 2024, I graduated summa cum laude from Vanderbilt University with a B.S. in Mathematics and Engineering Science and minors in Data Science and Business. I served as a <b>Developer</b> for the Vanderbilt Data Science Club during my junior year, where I created an email summarization and sentiment analysis tool specifically designed for individuals with cognitive disabilities. Additionally, as the <b>Vice President of Finance</b> and <b>Social Chair</b> for the Vanderbilt Data Science Club, I managed the organization’s funds, led general body meetings, built an <a href="https://vandydatascience-internal.github.io/" target="_blank" rel="noopener noreferrer">application site</a>, assisted with building a <a href="https://vandy-data-science.netlify.app/" target="_blank" rel="noopener noreferrer">main website</a>, and coordinated social events for developers.
+In May 2024, I graduated summa cum laude from Vanderbilt with a B.S. in Mathematics and Engineering Science and minors in Data Science and Business. I served as a <b>Developer</b> for the Vanderbilt Data Science Club during my junior year, where I created an email summarization and sentiment analysis tool specifically designed for individuals with cognitive disabilities. Additionally, as the <b>Vice President of Finance</b> and <b>Social Chair</b> for the Vanderbilt Data Science Club, I managed the organization’s funds, led general body meetings, built an <a href="https://vandydatascience-internal.github.io/" target="_blank" rel="noopener noreferrer">application site</a>, assisted with building a <a href="https://vandy-data-science.netlify.app/" target="_blank" rel="noopener noreferrer">main website</a>, and coordinated social events for developers.
 
 Outside of my academic and professional interests, I enjoy going on scenic runs and hikes. I also stay active with friends through various pickleball and squash leagues. When I’m not out and about, I’m usually hanging out with my dog Bailey.
 
@@ -86,17 +86,20 @@ Looking ahead, I am eager to gain more industry experience and continue solving 
 
 ## Relevant Coursework
 
+* Theory of Transformers & Generative AI
 * Machine Learning
 * Deep Learning
-* Statistical Learning
-* Numerical Mathematics
 * Natural Language Processing
+* Big Data & Distributed Systems
+* AI Application Development
+* Statistical Learning
 * Database Management Systems
 * Data Structures
 * Linear Algebra
-* Intermediate Statistics/Probability
-* Differential Equations
+* Intermediate Statistics & Probability
+* Numerical Mathematics
 * Multivariable Calculus
+* Differential Equations
 
 
 ## Socials

@@ -11,10 +11,10 @@ classes: wide
 
 <h1>Welcome to my page!</h1>
 
-M.S. Data Science at Vanderbilt University  💻
+Data Scientist at Microsoft  💻
 --------------------------------------------------------
 
-* 🌎  I'm from Atlanta, GA
+* 🌎  I'm from Atlanta, GA and currently live in Redmond, WA
 * ✉️  You can contact me at [brookestevens46@gmail.com](mailto:brookestevens46@gmail.com)
 * 📊  I'm passionate about using data science and machine learning to solve business problems
 * 🤝  I love working in teams
@@ -86,18 +86,20 @@ Looking ahead, I am eager to gain more industry experience and continue solving 
 
 ## Relevant Coursework
 
-* Theory of Transformers & Generative AI
+* Theory of Transformers and Generative AI
 * Machine Learning
-* Deep Learning
-* Natural Language Processing
-* Big Data & Distributed Systems
-* AI Application Development
 * Statistical Learning
+* Intermediate Statistics and Probability
+* Natural Language Processing
+* Big Data and Distributed Systems
 * Database Management Systems
+* Deep Learning
+* AI Application Development
+* Foundations of Optimization
 * Data Structures
 * Linear Algebra
-* Intermediate Statistics & Probability
 * Numerical Mathematics
+* Mathematical Modeling (ODEs/PDEs)
 * Multivariable Calculus
 * Differential Equations
 

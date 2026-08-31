@@ -102,10 +102,10 @@ analytics:
 author:
   name             : "Brooke Stevens"
   avatar           : "/images/brooke.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "<ul><li>M.S. Data Science at Vanderbilt University</li><li>Former Data Science Intern at Microsoft</li><li>Former Data Science Intern at PwC</li></ul>"
+  bio              : "<ul><li>Data Scientist at Microsoft</li><li>M.S. Data Science, Vanderbilt University</li><li>B.S. Mathematics, Vanderbilt University</li></ul>"
   location         :
   employer         :
-  email            : "brooke.m.stevens@vanderbilt.edu"
+  email            : "brookestevens46@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 

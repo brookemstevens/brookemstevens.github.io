@@ -59,7 +59,7 @@ a.uline {text-decoration:underline;}
 </style>
 
 
-<a href="../files/Brooke M Stevens CV May 2026.pdf" target="_blank" rel="noopener noreferrer">
+<a href="../files/Brooke M Stevens CV July 2026.pdf" target="_blank" rel="noopener noreferrer">
   <button class="button-28" role="button">Resume</button>
 </a>
 
@@ -84,6 +84,11 @@ GPA: 3.98/4.00  |  Summa Cum Laude
 ## Professional Experience
 ---
 
+**July 2026 - Present**<br>
+Data Scientist<br>
+Microsoft<br>
+<ul><li>Joined the IDEAS Applied Sciences team in July 2026</li></ul><br>
+
 **May 2025 - August 2025**<br>
 Data Science Intern<br>
 Microsoft<br>
@@ -102,7 +107,7 @@ PwC<br>
 Data Analytics Capstone<br>
 Tennessee Department of Environment and Conservation<br>
 <ul><li>Identified temporal, spatial, and seasonal water quality trends using 33 years of data across 86 monitoring sites in Tennessee</li>
-<li>Presented <a href="https://drive.google.com/file/d/1s-SttaiNr4K9fc6h9-gWHgiYAWPm7o6x/view?usp=sharing" target="_blank" rel="noopener noreferrer">notable analytic insights</a> to TDEC team once a month</li>
+<li>Presented notable analytic insights to TDEC team once a month</li>
 <li>Assisted with transition to Tableau to automate analytic processes</li></ul><br>
 
 **June 2023 - August 2023**<br>
@@ -115,8 +120,8 @@ PwC<br>
 **November 2022 - May 2023**<br>
 Developer<br>
 Vanderbilt Data Science Club<br>
-<ul><li>Created an <a href="https://drive.google.com/file/d/1EKIKc_6ZSj1BTgPF4sinpLFc7U0ptm4K/view?usp=sharing" target="_blank" rel="noopener noreferrer">email summarization and sentiment analysis tool</a> for individuals with cognitive disabilities</li>
-<li>Most notable contributions included fine-tuning the sentiment analysis model and developing its <a href="https://drive.google.com/file/d/170Y31_6oocN9isx6AQFvJZlF1y78FOJR/view?usp=sharing" target="_blank" rel="noopener noreferrer">user interface</a></li></ul><br>
+<ul><li>Created an email summarization and sentiment analysis tool for individuals with cognitive disabilities</li>
+<li>Most notable contributions included fine-tuning the sentiment analysis model and developing its user interface</li></ul><br>
 
 
 ## Leadership Experience
@@ -136,7 +141,7 @@ Vanderbilt Undergraduate Honor Council<br>
 
 **April 2022 - February 2024**<br>
 Recruitment Counselor<br>
-Vanderbilt Panhellenic Conference<br>
+Vanderbilt Sorority Council<br>
 <ul><li>Provided individualized mentorship to 40 students during Vanderbilt’s sorority recruitment process</li></ul><br>
 
 
